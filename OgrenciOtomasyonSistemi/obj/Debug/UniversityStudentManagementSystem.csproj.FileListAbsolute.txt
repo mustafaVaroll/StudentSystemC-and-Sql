@@ -1,0 +1,53 @@
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\bin\Debug\UniversityStudentManagementSystem.exe.config
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\bin\Debug\UniversityStudentManagementSystem.exe
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\bin\Debug\UniversityStudentManagementSystem.pdb
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.about.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.addstudent.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.adminconnect.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.administrator.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.adminlogin.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.capture.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.deletestudent.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.splash.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.main.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.password.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.Properties.Resources.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.question.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.register.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.searchstudent.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.social.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.student.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.studentgame.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.studes.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.updatestudents.resources
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.csproj.GenerateResource.Cache
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.exe
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.pdb
+C:\Users\BLAIRMAN\Documents\Visual Studio 2012\Projects\UniversityStudentManagementSystem\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.about.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.addstudent.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.adminconnect.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.administrator.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.adminlogin.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.capture.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.deletestudent.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.splash.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.main.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.password.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.Properties.Resources.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.question.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.register.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.searchstudent.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.social.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.student.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.studentgame.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.studes.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.updatestudents.resources
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.exe
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.pdb
+C:\Users\MURAT\Desktop\Simple-Project-master\Simple-Project-master\UniversityStudentManagementSystem\obj\Debug\UniversityStudentManagementSystem.kayit.resources
